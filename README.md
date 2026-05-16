@@ -5,8 +5,7 @@ NO necesito el certificado fisico
 SI necesito el credito de la materia
 No estoy en ningun grupo de trabajo con la Universidad 
 ## Acerca
-Buenos dias profe, este es el repositorio donde estan todos los codigos que hice para el curso de REACTJS
-La carpeta que contiene el proyecto final es la carpeta que dice Final, me disculpo si se ve demasiado simplona
+Buenos dias profe, este es el repositorio de mi proyecto final me disculpo si se ve demasiado simplona
 pero no queria usar IA ni nada que fuera algo que no hayamos visto en el curso y mas teniendo en cuenta que es 
 mi primera vez con React, css y Javascript.
 Como te comente antes yo estoy estudiando la Ingenieria Telematica en la Tecnologica y una de las modalidades de 
